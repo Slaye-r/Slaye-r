@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Snehil Yadav</h1>
-img align="right" width="100%" src="https://github.com/Slaye-r/Slaye-r/blob/main/Banner.png">
+<img align="right" width="100%" src="https://github.com/Slaye-r/Slaye-r/blob/main/Banner.png" >
+<span style="style=" border-radius :50%" ;></span>
 <h2> ug@IIT BHU </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slaye-r&label=Profile%20views&color=0e75b6&style=flat" alt="slaye-r" /> </p>
 <img align="right" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
